@@ -27,3 +27,9 @@ This project analyzes trade data to identify key financial insights such as prof
 data/       # raw data
 src/        # analysis scripts
 outputs/    # generated charts
+
+## Sample Visualization
+
+![Profit by Country](outputs/profit_by_country.png)
+
+![Profit Margin](outputs/profit_margin.png)
