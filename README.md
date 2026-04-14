@@ -20,6 +20,7 @@ This project analyzes trade data to identify key financial insights such as prof
 
 ## Project Structure
 
+---
 
 ```
 ## Project Structure
@@ -27,6 +28,7 @@ This project analyzes trade data to identify key financial insights such as prof
 data/       # raw data
 src/        # analysis scripts
 outputs/    # generated charts
+
 
 ## Sample Visualization
 
