@@ -19,15 +19,10 @@ This project analyzes trade data to identify key financial insights such as prof
 - Matplotlib
 
 ## Project Structure
-
----
-
 ```
-## Project Structure
-
-data/       # raw data
-src/        # analysis scripts
-outputs/    # generated charts
+data/ # raw data
+src/ # analysis scripts
+outputs/ # generated charts
 
 
 ## Sample Visualization
@@ -35,3 +30,4 @@ outputs/    # generated charts
 ![Profit by Country](outputs/profit_by_country.png)
 
 ![Profit Margin](outputs/profit_margin.png)
+
