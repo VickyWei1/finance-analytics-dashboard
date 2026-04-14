@@ -19,10 +19,11 @@ This project analyzes trade data to identify key financial insights such as prof
 - Matplotlib
 
 ## Project Structure
+```
 data/ # raw data
 src/ # analysis scripts
 outputs/ # generated charts
-
+```
 
 ## Sample Visualization
 
